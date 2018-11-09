@@ -1,4 +1,4 @@
-FROM zencomputersystems/ionic
+FROM steelburn/ionic
 COPY . /app
 RUN git clone https://github.com/zencomputersystems/eClaim.git
 
