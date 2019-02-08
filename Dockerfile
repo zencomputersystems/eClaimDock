@@ -22,4 +22,5 @@ npm install  --save-dev \
     @angular/tsc-wrapped @ionic/app-scripts@latest && \
 npm install @types/chart.js ng2-charts
 
+#updated
 EXPOSE 8100 35729
